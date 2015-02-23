@@ -1,7 +1,7 @@
 [{
   "subscriber": {
-    "email": "rick4470@gmail.com",
-    "name": "Rick"
+    "email": "foo@foo.com",
+    "name": "Foo"
   }
 }]
 
