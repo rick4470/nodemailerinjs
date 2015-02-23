@@ -1,0 +1,10 @@
+{
+  "name": "NodeMailerJS",
+  "description": "Quickly send an email to a list of json emails",
+  "version": ".01",
+  "author": "Rick <rick@saltyslopes.com>",
+  "dependencies": {
+    "nodemailer" : "1.3.0",
+    "nodemailer-mailgun-transport": "0.0.1",
+  },
+}
